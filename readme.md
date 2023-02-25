@@ -1,3 +1,3 @@
-# Deep Learning Assignment1
+# Deep Learning Assignment2
 
-### [Report-Link](https://docs.google.com/document/d/1WMMAOblrseRMVhvjuk7aEgjEUMibItyMwFZgk0jo84o/edit?usp=sharing)
+### [Report-Link](https://docs.google.com/document/d/1O238FKs7y2sPEdQ9Ym9qhzQTpPQsre3J2peQoJwbSts/edit?usp=sharing)
