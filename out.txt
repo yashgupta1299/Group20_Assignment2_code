@@ -1,0 +1,168 @@
+C:\Users\rn\Desktop\myFiles\6\DLA>python group20_assn2_q2.py
+univariate DataFrame
+       0       1
+0  0.962  2.9250
+1  0.784  2.3300
+2  0.992  3.0094
+3  0.604  2.1534
+4  0.066  1.9694
+bivariate DataFrame
+      0     1         2
+0  0.46  1.00 -5.970800
+1  0.07  0.20  3.331600
+2  0.65  0.52 -3.442800
+3  0.21  0.52 -0.001112
+4  0.22  1.00 -1.201900
+(600, 2) (200, 2) (201, 2)
+(6120, 3) (2040, 3) (2041, 3)
+
+For univariate case: with [3]:-> hidden layer configuration--------------
+
+**For training data************************
+---------- Mean squarred Error for univariate ----------
+0.03808035685364051
+--------- Root Mean squarred Error for univariate  -----------
+0.19514188902857457
+**For validation data***********************
+---------- Mean squarred Error for univariate ----------
+0.045043403825480534
+--------- Root Mean squarred Error for univariate  -----------
+0.21223431349685312
+**For test data**********************************
+---------- Mean squarred Error for univariate ----------
+0.03293162837112584
+--------- Root Mean squarred Error for univariate  -----------
+0.18147073695537208
+
+For univariate case: with [8]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 71th iteration -----
+**For training data************************
+---------- Mean squarred Error for univariate ----------
+0.021815824269439243
+--------- Root Mean squarred Error for univariate  -----------
+0.14770180861939114
+**For validation data***********************
+---------- Mean squarred Error for univariate ----------
+0.02537453162039567
+--------- Root Mean squarred Error for univariate  -----------
+0.1592938530527643
+**For test data**********************************
+---------- Mean squarred Error for univariate ----------
+0.018582396964706722
+--------- Root Mean squarred Error for univariate  -----------
+0.1363172658349144
+
+For univariate case: with [5]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 188th iteration -----
+**For training data************************
+---------- Mean squarred Error for univariate ----------
+0.019204589230102497
+--------- Root Mean squarred Error for univariate  -----------
+0.13858062357379727
+**For validation data***********************
+---------- Mean squarred Error for univariate ----------
+0.022470120375344307
+--------- Root Mean squarred Error for univariate  -----------
+0.14990036816280441
+**For test data**********************************
+---------- Mean squarred Error for univariate ----------
+0.01620531625705452
+--------- Root Mean squarred Error for univariate  -----------
+0.127300103130573
+
+For univariate case: with [14,8]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 54th iteration -----
+**For training data************************
+---------- Mean squarred Error for univariate ----------
+0.02331548394254182
+--------- Root Mean squarred Error for univariate  -----------
+0.15269408614134936
+**For validation data***********************
+---------- Mean squarred Error for univariate ----------
+0.027009614966750646
+--------- Root Mean squarred Error for univariate  -----------
+0.16434602205940566
+**For test data**********************************
+---------- Mean squarred Error for univariate ----------
+0.019967304494214785
+--------- Root Mean squarred Error for univariate  -----------
+0.14130571288597918
+
+For bivariate case: with [15]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 50th iteration -----
+**For training data************************
+---------- Mean squarred Error for bivariate ----------
+0.007343302065630197
+--------- Root Mean squarred Error for bivariate  -----------
+0.08569306894743703
+**For validation data***********************
+---------- Mean squarred Error for bivariate ----------
+0.007179163938562286
+--------- Root Mean squarred Error for bivariate  -----------
+0.08472994711766488
+**For test data**********************************
+---------- Mean squarred Error for bivariate ----------
+0.007279116196452398
+--------- Root Mean squarred Error for bivariate  -----------
+0.08531773670493374
+
+For bivariate case: with [18]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 76th iteration -----
+**For training data************************
+---------- Mean squarred Error for bivariate ----------
+0.01723272364809074
+--------- Root Mean squarred Error for bivariate  -----------
+0.13127346894209332
+**For validation data***********************
+---------- Mean squarred Error for bivariate ----------
+0.017206517825810605
+--------- Root Mean squarred Error for bivariate  -----------
+0.13117361711034198
+**For test data**********************************
+---------- Mean squarred Error for bivariate ----------
+0.01703335039183523
+--------- Root Mean squarred Error for bivariate  -----------
+0.1305118783553253
+
+For bivariate case: with [15, 18]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 33th iteration -----
+**For training data************************
+---------- Mean squarred Error for bivariate ----------
+0.009819098426566078
+--------- Root Mean squarred Error for bivariate  -----------
+0.09909136403625736
+**For validation data***********************
+---------- Mean squarred Error for bivariate ----------
+0.009743610668162504
+--------- Root Mean squarred Error for bivariate  -----------
+0.098709729349049
+**For test data**********************************
+---------- Mean squarred Error for bivariate ----------
+0.009579975547890933
+--------- Root Mean squarred Error for bivariate  -----------
+0.09787734951402666
+
+For bivariate case: with [24, 17]:-> hidden layer configuration-------------------
+
+---------------- Convergance criteria has been satisfied ------- breaking execution loop at 59th iteration -----
+**For training data************************
+---------- Mean squarred Error for bivariate ----------
+0.01094042697156365
+--------- Root Mean squarred Error for bivariate  -----------
+0.10459649598128826
+**For validation data***********************
+---------- Mean squarred Error for bivariate ----------
+0.011382786469794086
+--------- Root Mean squarred Error for bivariate  -----------
+0.10669014232718076
+**For test data**********************************
+---------- Mean squarred Error for bivariate ----------
+0.011285924272992116
+--------- Root Mean squarred Error for bivariate  -----------
+0.10623523084641985
